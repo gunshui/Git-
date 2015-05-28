@@ -17,6 +17,8 @@
 		D67079811B16BA0A00FA06C5 /* Git____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079801B16BA0A00FA06C5 /* Git____Tests.m */; };
 		D670798C1B16BC2B00FA06C5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670798B1B16BC2B00FA06C5 /* SecondViewController.m */; };
 		D670798F1B16C44400FA06C5 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670798E1B16C44400FA06C5 /* ThreeViewController.m */; };
+		D67079931B16FC5E00FA06C5 /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079911B16FC5E00FA06C5 /* FourViewController.m */; };
+		D67079941B16FC5E00FA06C5 /* FourViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D67079921B16FC5E00FA06C5 /* FourViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +50,9 @@
 		D670798B1B16BC2B00FA06C5 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		D670798D1B16C44400FA06C5 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
 		D670798E1B16C44400FA06C5 /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
+		D67079901B16FC5E00FA06C5 /* FourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
+		D67079911B16FC5E00FA06C5 /* FourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
+		D67079921B16FC5E00FA06C5 /* FourViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +97,9 @@
 				D67079681B16BA0A00FA06C5 /* AppDelegate.h */,
 				D67079691B16BA0A00FA06C5 /* AppDelegate.m */,
 				8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */,
+				D67079901B16FC5E00FA06C5 /* FourViewController.h */,
+				D67079911B16FC5E00FA06C5 /* FourViewController.m */,
+				D67079921B16FC5E00FA06C5 /* FourViewController.xib */,
 				D670796B1B16BA0A00FA06C5 /* ViewController.h */,
 				D670796C1B16BA0A00FA06C5 /* ViewController.m */,
 				D670798A1B16BC2B00FA06C5 /* SecondViewController.h */,
@@ -213,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D67079701B16BA0A00FA06C5 /* Main.storyboard in Resources */,
+				D67079941B16FC5E00FA06C5 /* FourViewController.xib in Resources */,
 				8EB501D91B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png in Resources */,
 				D67079751B16BA0A00FA06C5 /* LaunchScreen.xib in Resources */,
 				D67079721B16BA0A00FA06C5 /* Images.xcassets in Resources */,
@@ -233,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D67079931B16FC5E00FA06C5 /* FourViewController.m in Sources */,
 				D670798C1B16BC2B00FA06C5 /* SecondViewController.m in Sources */,
 				D670796D1B16BA0A00FA06C5 /* ViewController.m in Sources */,
 				D670796A1B16BA0A00FA06C5 /* AppDelegate.m in Sources */,
