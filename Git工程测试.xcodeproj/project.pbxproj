@@ -14,6 +14,7 @@
 		D67079721B16BA0A00FA06C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D67079711B16BA0A00FA06C5 /* Images.xcassets */; };
 		D67079751B16BA0A00FA06C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D67079731B16BA0A00FA06C5 /* LaunchScreen.xib */; };
 		D67079811B16BA0A00FA06C5 /* Git____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079801B16BA0A00FA06C5 /* Git____Tests.m */; };
+		D670798C1B16BC2B00FA06C5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670798B1B16BC2B00FA06C5 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		D670797A1B16BA0A00FA06C5 /* Git工程测试Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git工程测试Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D670797F1B16BA0A00FA06C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D67079801B16BA0A00FA06C5 /* Git____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Git____Tests.m"; sourceTree = "<group>"; };
+		D670798A1B16BC2B00FA06C5 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		D670798B1B16BC2B00FA06C5 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				D67079691B16BA0A00FA06C5 /* AppDelegate.m */,
 				D670796B1B16BA0A00FA06C5 /* ViewController.h */,
 				D670796C1B16BA0A00FA06C5 /* ViewController.m */,
+				D670798A1B16BC2B00FA06C5 /* SecondViewController.h */,
+				D670798B1B16BC2B00FA06C5 /* SecondViewController.m */,
 				D670796E1B16BA0A00FA06C5 /* Main.storyboard */,
 				D67079711B16BA0A00FA06C5 /* Images.xcassets */,
 				D67079731B16BA0A00FA06C5 /* LaunchScreen.xib */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D670798C1B16BC2B00FA06C5 /* SecondViewController.m in Sources */,
 				D670796D1B16BA0A00FA06C5 /* ViewController.m in Sources */,
 				D670796A1B16BA0A00FA06C5 /* AppDelegate.m in Sources */,
 				D67079671B16BA0A00FA06C5 /* main.m in Sources */,
