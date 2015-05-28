@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8EB501D91B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */; };
 		D67079671B16BA0A00FA06C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079661B16BA0A00FA06C5 /* main.m */; };
 		D670796A1B16BA0A00FA06C5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079691B16BA0A00FA06C5 /* AppDelegate.m */; };
 		D670796D1B16BA0A00FA06C5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670796C1B16BA0A00FA06C5 /* ViewController.m */; };
@@ -35,7 +34,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2015-05-28 下午2.39.09.png"; sourceTree = "<group>"; };
 		D67079611B16BA0A00FA06C5 /* Git工程测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git工程测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D67079651B16BA0A00FA06C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D67079661B16BA0A00FA06C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -104,7 +102,6 @@
 				D67079951B16FCAE00FA06C5 /* qinqin */,
 				D67079681B16BA0A00FA06C5 /* AppDelegate.h */,
 				D67079691B16BA0A00FA06C5 /* AppDelegate.m */,
-				8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */,
 				D67079901B16FC5E00FA06C5 /* FourViewController.h */,
 				D67079911B16FC5E00FA06C5 /* FourViewController.m */,
 				D67079921B16FC5E00FA06C5 /* FourViewController.xib */,
@@ -242,7 +239,6 @@
 				D670799C1B16FCC300FA06C5 /* u=3823724296,3457142115&fm=21&gp=0.jpg in Resources */,
 				D67079701B16BA0A00FA06C5 /* Main.storyboard in Resources */,
 				D67079941B16FC5E00FA06C5 /* FourViewController.xib in Resources */,
-				8EB501D91B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png in Resources */,
 				D67079751B16BA0A00FA06C5 /* LaunchScreen.xib in Resources */,
 				D670799A1B16FCBD00FA06C5 /* QQViewController.xib in Resources */,
 				D67079721B16BA0A00FA06C5 /* Images.xcassets in Resources */,
