@@ -19,6 +19,9 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"1111");
+    
+    UIButton*bnt=[[UIButton alloc]init];
+    [self.view addSubview:bnt];
    
 }
 
