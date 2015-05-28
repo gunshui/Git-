@@ -22,6 +22,8 @@
     
     UIButton*bnt=[[UIButton alloc]init];
     [self.view addSubview:bnt];
+    
+    
    
 }
 

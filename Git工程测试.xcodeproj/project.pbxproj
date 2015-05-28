@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8EB501D91B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */; };
 		D67079671B16BA0A00FA06C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079661B16BA0A00FA06C5 /* main.m */; };
 		D670796A1B16BA0A00FA06C5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079691B16BA0A00FA06C5 /* AppDelegate.m */; };
 		D670796D1B16BA0A00FA06C5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670796C1B16BA0A00FA06C5 /* ViewController.m */; };
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2015-05-28 下午2.39.09.png"; sourceTree = "<group>"; };
 		D67079611B16BA0A00FA06C5 /* Git工程测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git工程测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D67079651B16BA0A00FA06C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D67079661B16BA0A00FA06C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			children = (
 				D67079681B16BA0A00FA06C5 /* AppDelegate.h */,
 				D67079691B16BA0A00FA06C5 /* AppDelegate.m */,
+				8EB501D81B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png */,
 				D670796B1B16BA0A00FA06C5 /* ViewController.h */,
 				D670796C1B16BA0A00FA06C5 /* ViewController.m */,
 				D670798A1B16BC2B00FA06C5 /* SecondViewController.h */,
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D67079701B16BA0A00FA06C5 /* Main.storyboard in Resources */,
+				8EB501D91B16FC02005A08C2 /* 屏幕快照 2015-05-28 下午2.39.09.png in Resources */,
 				D67079751B16BA0A00FA06C5 /* LaunchScreen.xib in Resources */,
 				D67079721B16BA0A00FA06C5 /* Images.xcassets in Resources */,
 			);
@@ -428,6 +432,7 @@
 				D67079861B16BA0A00FA06C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D67079871B16BA0A00FA06C5 /* Build configuration list for PBXNativeTarget "Git工程测试Tests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +441,7 @@
 				D67079891B16BA0A00FA06C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
