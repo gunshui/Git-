@@ -15,6 +15,7 @@
 		D67079751B16BA0A00FA06C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D67079731B16BA0A00FA06C5 /* LaunchScreen.xib */; };
 		D67079811B16BA0A00FA06C5 /* Git____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D67079801B16BA0A00FA06C5 /* Git____Tests.m */; };
 		D670798C1B16BC2B00FA06C5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670798B1B16BC2B00FA06C5 /* SecondViewController.m */; };
+		D670798F1B16C44400FA06C5 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D670798E1B16C44400FA06C5 /* ThreeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		D67079801B16BA0A00FA06C5 /* Git____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Git____Tests.m"; sourceTree = "<group>"; };
 		D670798A1B16BC2B00FA06C5 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		D670798B1B16BC2B00FA06C5 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		D670798D1B16C44400FA06C5 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
+		D670798E1B16C44400FA06C5 /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				D670796C1B16BA0A00FA06C5 /* ViewController.m */,
 				D670798A1B16BC2B00FA06C5 /* SecondViewController.h */,
 				D670798B1B16BC2B00FA06C5 /* SecondViewController.m */,
+				D670798D1B16C44400FA06C5 /* ThreeViewController.h */,
+				D670798E1B16C44400FA06C5 /* ThreeViewController.m */,
 				D670796E1B16BA0A00FA06C5 /* Main.storyboard */,
 				D67079711B16BA0A00FA06C5 /* Images.xcassets */,
 				D67079731B16BA0A00FA06C5 /* LaunchScreen.xib */,
@@ -228,6 +233,7 @@
 				D670796D1B16BA0A00FA06C5 /* ViewController.m in Sources */,
 				D670796A1B16BA0A00FA06C5 /* AppDelegate.m in Sources */,
 				D67079671B16BA0A00FA06C5 /* main.m in Sources */,
+				D670798F1B16C44400FA06C5 /* ThreeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
