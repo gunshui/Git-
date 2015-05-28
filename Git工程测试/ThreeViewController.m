@@ -17,11 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    NSLog(@"33");
-    UIButton*btn=[[UIButton alloc]init];
-    [self.view addSubview:btn];
-    
-    NSLog(@"nihao");
+   
 }
 
 - (void)didReceiveMemoryWarning {
