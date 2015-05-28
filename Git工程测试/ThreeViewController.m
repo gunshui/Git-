@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     NSLog(@"33");
     UIButton*btn=[[UIButton alloc]init];
+    [self.view addSubview:btn];
 }
 
 - (void)didReceiveMemoryWarning {
